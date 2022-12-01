@@ -1,0 +1,10 @@
+name: aoc-2022-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - flake8
+  - mypy
+  - numpy
+  - pip
